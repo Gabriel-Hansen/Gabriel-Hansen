@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Hansen de Vasconcelos</h1>
 <h3 align="center">I am a IT student from Brazil</h3>
-<img src="https://giphy.com/embed/VGuAZNdkPUpEY](https://giphy.com/gifs/meme-nyan-cat-VGuAZNdkPUpEY)" width="480" height="251" ></img>
+<br>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">
+<br>
 - 📫 How to reach me? send me an e-mail! **gabriel.hansen.v@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
