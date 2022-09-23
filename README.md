@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Hansen de Vasconcelos</h1>
 <h3 align="center">I am a IT student from Brazil</h3>
-<img src="https://giphy.com/embed/VGuAZNdkPUpEY" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iimg><p><a href="https://giphy.com/gifs/meme-nyan-cat-VGuAZNdkPUpEY">via GIPHY</a></p>
+<img src="https://giphy.com/embed/VGuAZNdkPUpEY" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/meme-nyan-cat-VGuAZNdkPUpEY">via GIPHY</a></p>
 - 📫 How to reach me? send me an e-mail! **gabriel.hansen.v@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
