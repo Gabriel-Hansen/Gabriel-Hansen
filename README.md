@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Hansen de Vasconcelos</h1>
 <h3 align="center">I am a IT student from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Early_MS-DOS_in_Gif_image_form.gif">
+
 
 - 📫 How to reach me? send me an e-mail! **gabriel.hansen.v@gmail.com**
 
