@@ -1,6 +1,27 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+12436
+Fork on GitHub
+3134
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Gabriel Hansen de Vasconcelos</h1>
 <h3 align="center">I am a IT student from Brazil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-hansen&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-hansen" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-hansen" alt="gabriel-hansen" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me? send me an e-mail! **gabriel.hansen.v@gmail.com**
 
@@ -17,4 +38,33 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gabrielhansen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gabrielhansen" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-hansen&show_icons=true&locale=en&layout=compact" alt="gabriel-hansen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-hansen&show_icons=true&locale=en&layout=compact" alt="gabriel-hansen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-hansen&show_icons=true&locale=en" alt="gabriel-hansen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-hansen&" alt="gabriel-hansen" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
